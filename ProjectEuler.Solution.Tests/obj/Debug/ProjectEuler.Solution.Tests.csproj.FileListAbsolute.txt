@@ -1,0 +1,9 @@
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\bin\Debug\ProjectEuler.Solution.Tests.dll
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\bin\Debug\ProjectEuler.Solution.Tests.pdb
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\bin\Debug\nunit.framework.dll
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\bin\Debug\ProjectEuler.Solutions.dll
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\bin\Debug\ProjectEuler.Solutions.pdb
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\bin\Debug\nunit.framework.xml
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\obj\Debug\ProjectEuler.Solution.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\obj\Debug\ProjectEuler.Solution.Tests.dll
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solution.Tests\obj\Debug\ProjectEuler.Solution.Tests.pdb
