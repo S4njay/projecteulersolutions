@@ -3,3 +3,8 @@ C:\Users\sanjay\Documents\ProjectEuler.Solutions\bin\Debug\ProjectEuler.Solution
 C:\Users\sanjay\Documents\ProjectEuler.Solutions\obj\Debug\ProjectEuler.Solutions.csprojResolveAssemblyReference.cache
 C:\Users\sanjay\Documents\ProjectEuler.Solutions\obj\Debug\ProjectEuler.Solutions.dll
 C:\Users\sanjay\Documents\ProjectEuler.Solutions\obj\Debug\ProjectEuler.Solutions.pdb
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solutions\bin\Debug\ProjectEuler.Solutions.dll
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solutions\bin\Debug\ProjectEuler.Solutions.pdb
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solutions\obj\Debug\ProjectEuler.Solutions.csprojResolveAssemblyReference.cache
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solutions\obj\Debug\ProjectEuler.Solutions.dll
+C:\Users\sanjay\Documents\projecteulersolutions\ProjectEuler.Solutions\obj\Debug\ProjectEuler.Solutions.pdb

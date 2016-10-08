@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EvenFibonacciNumbersTest.cs" />
     <Compile Include="MultiplesOf3and5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
